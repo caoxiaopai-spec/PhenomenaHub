@@ -1,6 +1,6 @@
 # 经济学：法则与效应
 
-[返回总览](../README.zh.md) | [English Version](Economics.md)
+[返回总览](../../README.zh.md) | [English Version](../en/Economics.md)
 
 本文件汇总影响市场行为、资源配置与金融决策的关键经济学法则、原则与效应。
 

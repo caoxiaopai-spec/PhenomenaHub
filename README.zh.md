@@ -32,7 +32,7 @@ PhenomenaHub 目前在以下基础学科领域提供广泛覆盖:
 ### 🧠 认知与社会科学
 - [**心理学**](docs/zh/Psychology.md) ([English](docs/en/Psychology.md)) — 认知过程、行为模式、心智模型 (30+ 法则与效应)
 - [**社会学**](docs/zh/Sociology.md) ([English](docs/en/Sociology.md)) — 社会结构、集体行为、系统模式 (20+ 法则与效应)
-- [**哲学**](docs/zh/Philosophy.md) ([English](docs/en/Philosophy.md)) — 认识论规则、逻辑法则、伦理框架 (即将推出)
+- [**哲学**](docs/zh/Philosophy.md) ([English](docs/en/Philosophy.md)) — 认识论规则、逻辑法则、伦理框架 (收录 15+ 原理)
 
 ### 💼 商业与经济
 - [**经济学**](docs/zh/Economics.md) ([English](docs/en/Economics.md)) — 市场动态、经济理论、金融原理 (25+ 法则与效应)
@@ -40,7 +40,7 @@ PhenomenaHub 目前在以下基础学科领域提供广泛覆盖:
 - [**营销学**](docs/zh/Marketing.md) ([English](docs/en/Marketing.md)) — 消费者心理、说服效应、市场反应 (即将推出)
 
 ### 🔬 自然科学
-- [**物理学**](docs/zh/Physics.md) ([English](docs/en/Physics.md)) — 基本力、热力学、量子现象 (20+ 定律与原理)
+- [**物理学**](docs/zh/Physics.md) ([English](docs/en/Physics.md)) — 基本力、热力学、量子现象 (10+ 定律与原理)
 - [**生物学**](docs/zh/Biology.md) ([English](docs/en/Biology.md)) — 进化过程、生态互动、生命科学 (即将推出)
 - [**化学**](docs/zh/Chemistry.md) ([English](docs/en/Chemistry.md)) — 化学反应、分子行为、周期规律 (即将推出)
 

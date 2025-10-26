@@ -1,6 +1,6 @@
 # Economics: Laws & Effects
 
-[Back to Main](../README.md) | [中文版本](Economics.zh.md)
+[Back to Main](../../README.md) | [中文版本](../zh/Economics.md)
 
 This document catalogs fundamental economic laws, principles, and effects that govern market behavior, resource allocation, and financial decision-making.
 

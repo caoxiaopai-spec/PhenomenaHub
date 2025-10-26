@@ -1,6 +1,6 @@
 # 社会学：法则与效应
 
-[返回总览](../README.zh.md) | [English Version](Sociology.md)
+[返回总览](../../README.zh.md) | [English Version](../en/Sociology.md)
 
 本文档汇集解释群体行为、社会结构与文化变迁的核心社会学法则、理论与效应。
 

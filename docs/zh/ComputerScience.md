@@ -1,6 +1,6 @@
 # 计算机科学：定律与原则
 
-[返回总览](../README.zh.md) | [English Version](ComputerScience.md)
+[返回总览](../../README.zh.md) | [English Version](../en/ComputerScience.md)
 
 本文档汇集计算机科学、软件工程与信息系统中的核心定律、原则与经验观察。
 

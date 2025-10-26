@@ -32,7 +32,7 @@ PhenomenaHub currently provides extensive coverage in the following foundational
 ### 🧠 Cognitive & Social Sciences
 - [**Psychology**](docs/en/Psychology.md) ([中文](docs/zh/Psychology.md)) — Cognitive processes, behavioral patterns, mental models (30+ laws & effects)
 - [**Sociology**](docs/en/Sociology.md) ([中文](docs/zh/Sociology.md)) — Social structures, collective behaviors, systemic patterns (20+ laws & effects)
-- [**Philosophy**](docs/en/Philosophy.md) ([中文](docs/zh/Philosophy.md)) — Epistemological rules, logical laws, ethical frameworks (Coming soon)
+- [**Philosophy**](docs/en/Philosophy.md) ([中文](docs/zh/Philosophy.md)) — Epistemological rules, logical laws, ethical frameworks (15+ principles)
 
 ### 💼 Business & Economics
 - [**Economics**](docs/en/Economics.md) ([中文](docs/zh/Economics.md)) — Market dynamics, economic theories, financial principles (25+ laws & effects)
@@ -40,7 +40,7 @@ PhenomenaHub currently provides extensive coverage in the following foundational
 - [**Marketing**](docs/en/Marketing.md) ([中文](docs/zh/Marketing.md)) — Consumer psychology, persuasion effects, market responses (Coming soon)
 
 ### 🔬 Natural Sciences
-- [**Physics**](docs/en/Physics.md) ([中文](docs/zh/Physics.md)) — Fundamental forces, thermodynamics, quantum phenomena (20+ laws & principles)
+- [**Physics**](docs/en/Physics.md) ([中文](docs/zh/Physics.md)) — Fundamental forces, thermodynamics, quantum phenomena (10+ laws & principles)
 - [**Biology**](docs/en/Biology.md) ([中文](docs/zh/Biology.md)) — Evolutionary processes, ecological interactions, life sciences (Coming soon)
 - [**Chemistry**](docs/en/Chemistry.md) ([中文](docs/zh/Chemistry.md)) — Chemical reactions, molecular behaviors, periodic trends (Coming soon)
 

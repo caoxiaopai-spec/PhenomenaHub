@@ -1,6 +1,6 @@
 # Physics: Laws & Principles
 
-[Back to Main](../README.md) | [中文版本](Physics.zh.md)
+[Back to Main](../../README.md) | [中文版本](../zh/Physics.md)
 
 This document catalogs foundational physical laws and principles that describe matter, energy, and the universe.
 

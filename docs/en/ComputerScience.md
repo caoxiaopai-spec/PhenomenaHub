@@ -1,6 +1,6 @@
 # Computer Science: Laws & Principles
 
-[Back to Main](../README.md) | [中文版本](ComputerScience.zh.md)
+[Back to Main](../../README.md) | [中文版本](../zh/ComputerScience.md)
 
 This document catalogs foundational laws, principles, and observations in computer science, software engineering, and information systems.
 

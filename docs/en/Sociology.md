@@ -1,6 +1,6 @@
 # Sociology: Laws & Effects
 
-[Back to Main](../README.md) | [中文版本](Sociology.zh.md)
+[Back to Main](../../README.md) | [中文版本](../zh/Sociology.md)
 
 This document catalogs sociological laws, theories, and effects that explain group dynamics, social structures, and cultural change.
 
