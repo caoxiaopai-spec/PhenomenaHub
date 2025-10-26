@@ -27,20 +27,32 @@ PhenomenaHub 是一个开源知识库，致力于收集、整理和记录人类�
 
 ## 🗂️ 核心领域
 
-PhenomenaHub 目前在以下十个基础学科领域提供广泛覆盖:
+PhenomenaHub 目前在以下基础学科领域提供广泛覆盖:
 
-- [**心理学**](docs/Psychology.zh.md) — 认知过程、行为模式、心智模型
-- [**经济学**](docs/Economics.zh.md) — 市场动态、经济理论、金融原理
-- [**社会学**](docs/Sociology.zh.md) — 社会结构、集体行为、系统模式
-- [**物理学**](docs/Physics.zh.md) — 基本力、热力学、量子现象
-- [**生物学**](docs/Biology.zh.md) — 进化过程、生态互动、生命科学
-- [**计算机科学**](docs/ComputerScience.zh.md) — 算法、计算范式、信息系统
-- [**管理学**](docs/Management.zh.md) — 组织行为、领导力原则、生产力法则
-- [**营销学**](docs/Marketing.zh.md) — 消费者心理、说服效应、市场反应
-- [**哲学**](docs/Philosophy.zh.md) — 认识论规则、逻辑法则、伦理框架
-- [**数学**](docs/Mathematics.zh.md) — 定理、公理、统计与分析原理
+### 🧠 认知与社会科学
+- [**心理学**](docs/zh/Psychology.md) ([English](docs/en/Psychology.md)) — 认知过程、行为模式、心智模型 (30+ 法则与效应)
+- [**社会学**](docs/zh/Sociology.md) ([English](docs/en/Sociology.md)) — 社会结构、集体行为、系统模式 (20+ 法则与效应)
+- [**哲学**](docs/zh/Philosophy.md) ([English](docs/en/Philosophy.md)) — 认识论规则、逻辑法则、伦理框架 (即将推出)
 
-医学、环境科学、教育学以及新兴技术等其他领域正在积极开发中。
+### 💼 商业与经济
+- [**经济学**](docs/zh/Economics.md) ([English](docs/en/Economics.md)) — 市场动态、经济理论、金融原理 (25+ 法则与效应)
+- [**管理学**](docs/zh/Management.md) ([English](docs/en/Management.md)) — 组织行为、领导力原则、生产力法则 (即将推出)
+- [**营销学**](docs/zh/Marketing.md) ([English](docs/en/Marketing.md)) — 消费者心理、说服效应、市场反应 (即将推出)
+
+### 🔬 自然科学
+- [**物理学**](docs/zh/Physics.md) ([English](docs/en/Physics.md)) — 基本力、热力学、量子现象 (20+ 定律与原理)
+- [**生物学**](docs/zh/Biology.md) ([English](docs/en/Biology.md)) — 进化过程、生态互动、生命科学 (即将推出)
+- [**化学**](docs/zh/Chemistry.md) ([English](docs/en/Chemistry.md)) — 化学反应、分子行为、周期规律 (即将推出)
+
+### 💻 技术与数学
+- [**计算机科学**](docs/zh/ComputerScience.md) ([English](docs/en/ComputerScience.md)) — 算法、计算范式、信息系统 (15+ 定律与原理)
+- [**数学**](docs/zh/Mathematics.md) ([English](docs/en/Mathematics.md)) — 定理、公理、统计与分析原理 (即将推出)
+
+### 🌍 应用科学
+- [**工程学**](docs/zh/Engineering.md) ([English](docs/en/Engineering.md)) — 设计原则、系统行为、优化法则 (即将推出)
+- [**环境科学**](docs/zh/EnvironmentalScience.md) ([English](docs/en/EnvironmentalScience.md)) — 生态原理、气候模式、可持续性 (即将推出)
+- [**医学**](docs/zh/Medicine.md) ([English](docs/en/Medicine.md)) — 医学原理、药理效应、临床观察 (即将推出)
+- [**教育学**](docs/zh/Education.md) ([English](docs/en/Education.md)) — 学习理论、教学原则、教育心理学 (即将推出)
 
 ## 📖 条目结构
 
@@ -91,16 +103,16 @@ PhenomenaHub 的所有内容必须:
 
 ## 🌐 语言版本
 
-所有文档均提供:
-- **英文** (`.md` 文件)
-- **中文** (`.zh.md` 文件)
+所有文档按语言组织:
+- **英文**: `docs/en/` 目录
+- **中文**: `docs/zh/` 目录
 
-每个领域文件都有对应的双语版本(例如 `Psychology.md` 和 `Psychology.zh.md`)。
+每个领域文件都有英文和中文两个版本，内容结构对应。
 
 ## 📊 仓库概览
 
-- **覆盖领域**: 10 个(持续扩展中)
-- **收录法则与效应**: 100+ (初始版本)
+- **覆盖领域**: 15+ (持续扩展中)
+- **收录法则与效应**: 100+ (持续增长)
 - **语言**: 英文 & 中文
 - **最近更新**: 2024-10
 

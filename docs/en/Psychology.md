@@ -1,6 +1,6 @@
 # Psychology: Laws & Effects
 
-[Back to Main](../README.md) | [中文版本](Psychology.zh.md)
+[Back to Main](../../README.md) | [中文版本](../zh/Psychology.md)
 
 This document catalogs major psychological laws, effects, and cognitive biases that shape human perception, judgment, and behavior.
 
@@ -28,6 +28,16 @@ This document catalogs major psychological laws, effects, and cognitive biases t
 18. [Framing Effect](#framing-effect)
 19. [Hindsight Bias](#hindsight-bias)
 20. [Self-Fulfilling Prophecy](#self-fulfilling-prophecy)
+21. [Spotlight Effect](#spotlight-effect)
+22. [False Consensus Effect](#false-consensus-effect)
+23. [Optimism Bias](#optimism-bias)
+24. [Negativity Bias](#negativity-bias)
+25. [Contrast Effect](#contrast-effect)
+26. [Inattentional Blindness](#inattentional-blindness)
+27. [Placebo Effect](#placebo-effect)
+28. [Bystander Effect](#bystander-effect)
+29. [Scarcity Effect](#scarcity-effect)
+30. [Overjustification Effect](#overjustification-effect)
 
 ---
 
@@ -768,12 +778,373 @@ Self-fulfilling prophecies illustrate the constructed nature of social reality a
 
 ---
 
+## Spotlight Effect
+
+**Spotlight Effect** / **聚光灯效应**
+
+### Description
+
+The spotlight effect refers to people's tendency to overestimate how much others notice their appearance, mistakes, or social blunders. Because our own thoughts are filled with self-focused information, we assume the same is true for everyone else. In reality, observers are usually preoccupied with their own concerns and rarely scrutinize us as closely as we imagine. The bias can produce unnecessary anxiety, avoidance of beneficial opportunities, and misinterpretation of social feedback. It plays out in classrooms, boardrooms, and online spaces where small mishaps feel catastrophic to the actor but barely register to bystanders. Recognizing the spotlight effect helps people regulate self-conscious emotions, calibrate estimates of reputational damage, and develop resilience to minor embarrassments.
+
+### Origin
+
+Coined by psychologists **Thomas Gilovich**, **Kenneth Savitsky**, and **Victoria Husted Medvec** in 1999 through a series of laboratory studies. Participants wearing attention-grabbing Barry Manilow T-shirts vastly overestimated how many classmates noticed the shirt, revealing a systematic overestimation of social visibility.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Spotlight_effect)
+- [中文](N/A)
+
+### Applications
+
+- **Public Speaking:** Speakers reframe mild stumbles as negligible because audiences focus on message content, not slips.
+- **Education:** Teachers coach anxious students to participate despite fearing peers will fixate on small mistakes.
+- **Workplace Feedback:** Managers remind perfectionistic employees that most colleagues notice outcomes, not minor process flaws.
+- **Social Media:** Users temper fears about negative reactions when learning most followers skim rather than scrutinize posts.
+- **Clinical Psychology:** Therapists treating social anxiety challenge catastrophic interpretations by testing spotlight-effect predictions.
+
+### Related Concepts
+
+- [Self-Fulfilling Prophecy](#self-fulfilling-prophecy)
+- [Confirmation Bias](#confirmation-bias)
+
+### Additional Notes
+
+Correcting the spotlight effect involves perspective-taking exercises and behavioral experiments that gather objective data about others' attention. It also overlaps with illusion of transparency—the mistaken belief that emotions are obvious to observers.
+
+---
+
+## False Consensus Effect
+
+**False Consensus Effect** / **虚假共识效应**
+
+### Description
+
+The false consensus effect is a perceptual bias in which people overestimate how widely their beliefs, values, or behaviors are shared by others. Individuals use their own attitudes as an anchor and assume a higher degree of agreement than exists, especially on ambiguous issues. The bias helps maintain self-esteem and perceived normality but distorts social perception, decision-making, and conflict resolution. When groups fall prey to false consensus, they dismiss dissenting voices as aberrations, underestimate opposition, and make risky choices based on imagined support.
+
+### Origin
+
+Identified by **Lee Ross**, **David Greene**, and **Pamela House** in 1977. In classic experiments, participants predicted that peers would make the same choice they did (e.g., walking around campus with a sandwich board), demonstrating overestimation of consensus for one's own decisions.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/False_consensus_effect)
+- [中文](https://zh.wikipedia.org/wiki/虚假共识效应)
+
+### Applications
+
+- **Political Strategy:** Campaign teams poll widely because strategists' personal views are poor proxies for electorate sentiment.
+- **Product Development:** Designers validate user research with diverse samples rather than assuming customers share their preferences.
+- **Negotiation:** Parties temper opening demands by recognizing the other side may not view proposals as reasonable or common sense.
+- **Diversity & Inclusion:** Organizations challenge majority-group assumptions about norms to avoid alienating underrepresented employees.
+- **Public Health:** Communicators correct misperceptions about community compliance (e.g., vaccination uptake) to prevent false consensus from undermining behavior change.
+
+### Related Concepts
+
+- [Bandwagon Effect](#bandwagon-effect)
+- [Confirmation Bias](#confirmation-bias)
+
+### Additional Notes
+
+False consensus interacts with selective exposure: people curate social circles and media feeds that echo their views, reinforcing the illusion of universality. Countermeasures include deliberate contact with dissenting opinions and data-driven feedback about actual distribution of beliefs.
+
+---
+
+## Optimism Bias
+
+**Optimism Bias** / **乐观偏差**
+
+### Description
+
+Optimism bias is the tendency to overestimate the likelihood of positive outcomes and underestimate the likelihood of negative events for oneself compared with others. People acknowledge risks abstractly but believe they are personally less vulnerable to illness, financial loss, or failure. The bias fuels ambition and persistence yet can lead to inadequate preparation, underinsurance, and risk-taking. Optimism bias also affects forecasting: entrepreneurs and project managers provide overly rosy timelines and budgets. Balanced optimism pairs motivational benefits with realistic risk assessment.
+
+### Origin
+
+First explored by **Neil Weinstein** in 1980 in studies on perceived susceptibility to health hazards. Neuroscientist **Tali Sharot** later linked optimism bias to asymmetric brain updates when processing good versus bad news.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Optimism_bias)
+- [中文](https://zh.wikipedia.org/wiki/乐观偏差)
+
+### Applications
+
+- **Project Management:** Teams incorporate contingency buffers and reference class forecasting to offset optimism in schedules and costs.
+- **Personal Finance:** Advisors encourage emergency funds and insurance despite clients' beliefs that bad events are unlikely to happen to them.
+- **Healthcare:** Physicians anticipate non-adherence and design interventions (e.g., reminders, accountability partners) because patients may downplay relapse risk.
+- **Climate Policy:** Policymakers counter techno-optimism by pairing innovation narratives with risk mitigation and adaptation plans.
+- **Sports Coaching:** Trainers leverage optimism to sustain motivation while using analytics to ground expectations.
+
+### Related Concepts
+
+- [Hindsight Bias](#hindsight-bias)
+- [Framing Effect](#framing-effect)
+
+### Additional Notes
+
+Optimism bias varies across cultures and life stages; protective factors include prior adversity, accountability, and feedback loops that make risks vivid. 
+---
+
+## Negativity Bias
+
+**Negativity Bias** / **负面偏差**
+
+### Description
+
+Negativity bias describes the disproportionate impact that negative stimuli, events, or feedback have on cognition and emotion compared with equally intense positive inputs. Bad impressions form faster, adverse news spreads farther, and losses hurt more than equivalent gains feel good. Evolutionarily, rapid detection of threats supported survival; today the bias influences how people remember relationships, evaluate brands, and process media. Negativity bias explains why a single criticism can outweigh a string of compliments and why organizations struggle to build trust after mistakes. Understanding the bias enables deliberate cultivation of positive experiences to counterbalance inevitable setbacks.
+
+### Origin
+
+Synthesized by psychologists **Roy Baumeister**, **Ellen Bratslavsky**, **Catrin Finkenauer**, and **Kathleen Vohs** in their 2001 paper *"Bad Is Stronger Than Good"*, which reviewed evidence across perception, learning, and social judgment.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Negativity_bias)
+- [中文](N/A)
+
+### Applications
+
+- **Customer Experience:** Service teams respond swiftly to complaints knowing negative encounters disproportionately shape loyalty metrics.
+- **Media Literacy:** Audiences learn to contextualize doom-laden headlines designed to exploit negativity bias.
+- **Performance Management:** Leaders pair critical feedback with concrete positives to prevent demoralization.
+- **Personal Relationships:** Couples therapists encourage five-to-one ratios of positive to negative interactions to maintain satisfaction.
+- **Risk Communication:** Public health officials frame warnings with constructive actions to avoid paralysis induced by fear-heavy messaging.
+
+### Related Concepts
+
+- [Loss Aversion](#loss-aversion)
+- [Availability Heuristic](#availability-heuristic)
+
+### Additional Notes
+
+Neurological studies show stronger amygdala activation for negative stimuli, but neuroplasticity allows gratitude practices and savoring exercises to rebalance attention. Digital platforms employ negativity bias in engagement loops; mindful media diets counteract distorted worldviews.
+
+---
+
+## Contrast Effect
+
+**Contrast Effect** / **对比效应**
+
+### Description
+
+The contrast effect occurs when evaluation of a target is skewed by comparisons to recently observed stimuli. A competent job candidate may appear exceptional if preceded by weak applicants but only average after outstanding ones. Perception adapts to contextual extremes, altering judgments of attractiveness, price, or performance. Contrast effects shape hiring, pricing, grading, and consumer choice, often without conscious awareness. Recognizing the effect helps decision-makers isolate absolute criteria from contextual noise and design processes that minimize order-dependent distortions.
+
+### Origin
+
+Experimental evidence dates to early psychophysics; social psychologists **Sherif and Hovland** elaborated assimilation-contrast theory in the 1950s. Later studies in marketing and personnel psychology quantified how sequential presentation influences judgments.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Contrast_effect)
+- [中文](N/A)
+
+### Applications
+
+- **Recruiting:** Structured scoring and randomized interview order reduce contrast-driven fluctuations in candidate ratings.
+- **Retail:** Stores place premium products beside ultra-expensive anchors to make high prices seem reasonable.
+- **Education:** Teachers grade blindly or in batches to avoid student work being advantaged or penalized by neighboring submissions.
+- **User Experience:** Designers test interface variants in counterbalanced sequences to prevent contrast effects from confounding usability data.
+- **Legal Sentencing:** Judges review sentencing guidelines to counteract contrast effects produced by unusual prior cases.
+
+### Related Concepts
+
+- [Anchoring Effect](#anchoring-effect)
+- [Framing Effect](#framing-effect)
+
+### Additional Notes
+
+Contrast effects interact with adaptation-level theory, which posits that exposure to extremes resets perceptual baselines. Decision aids such as conjoint analysis and pairwise comparisons help separate intrinsic value from contextual contrast.
+
+---
+
+## Inattentional Blindness
+
+**Inattentional Blindness** / **无意盲视**
+
+### Description
+
+Inattentional blindness refers to the failure to perceive unexpected objects or events in plain sight when attention is engaged elsewhere. Even highly salient stimuli—like a person in a gorilla suit walking through a basketball game—may go unnoticed if they are irrelevant to the observer's task. The phenomenon highlights the limits of attention and challenges assumptions that seeing equals noticing. It explains why drivers miss motorcycles, radiologists miss anomalies, and pilots overlook instrument warnings when cognitively overloaded.
+
+### Origin
+
+Documented by cognitive psychologists **Arien Mack** and **Irvin Rock** (1998) and popularized by **Daniel Simons** and **Christopher Chabris** in their 1999 "invisible gorilla" experiments.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Inattentional_blindness)
+- [中文](https://zh.wikipedia.org/wiki/無意盲視)
+
+### Applications
+
+- **Aviation Safety:** Cockpit resource management trains crews to distribute attention, use checklists, and cross-monitor instruments.
+- **Healthcare:** Radiology workflows incorporate double-reading and computer-aided detection to catch lesions missed due to attentional lapses.
+- **Transportation:** Campaigns remind drivers to "look twice" for cyclists and motorcyclists masked by inattentional blindness.
+- **Security:** Screeners rotate tasks and insert test objects to maintain vigilance when scanning luggage feeds.
+- **Human-Computer Interaction:** Interface alerts use multimodal cues (visual, auditory, haptic) to penetrate focused attention on primary tasks.
+
+### Related Concepts
+
+- [Availability Heuristic](#availability-heuristic)
+- [Spotlight Effect](#spotlight-effect)
+
+### Additional Notes
+
+Inattentional blindness underscores that attention is selective and capacity-limited. Designing high-reliability systems requires distributing cognitive load, automating routine tasks, and cultivating mindful awareness of unexpected changes.
+
+---
+
+## Placebo Effect
+
+**Placebo Effect** / **安慰剂效应**
+
+### Description
+
+The placebo effect occurs when patients experience genuine physiological or psychological improvement after receiving an inert treatment, solely because they believe it is active. Expectations trigger neurochemical cascades—releasing endorphins, dopamine, or immune modulators—that mimic drug effects. Placebos demonstrate the mind-body connection in pain management, depression, Parkinson's disease, and beyond. The effect complicates clinical trials (necessitating double-blind control groups) but also informs therapeutic rituals, bedside manner, and patient empowerment strategies.
+
+### Origin
+
+Medical officer **Henry Beecher** popularized the term in his 1955 article *"The Powerful Placebo"*. Subsequent research by **Fabrizio Benedetti** and others mapped neurobiological pathways that translate expectation into symptom relief.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Placebo)
+- [中文](https://zh.wikipedia.org/wiki/安慰剂效应)
+
+### Applications
+
+- **Clinical Trials:** Randomized, double-blind designs separate drug efficacy from expectation-driven improvement.
+- **Healthcare Communication:** Physicians use clear explanations and empathetic rapport to harness positive expectations ethically.
+- **Pain Management:** Conditioning protocols combine minimal doses with placebo boosters to sustain analgesia while reducing side effects.
+- **Digital Therapeutics:** App-based interventions include ritualized check-ins to leverage expectancy effects in behavior change.
+- **Sports Medicine:** Coaches pair visualization and recovery rituals with evidence-based treatment to amplify adherence and perceived efficacy.
+
+### Related Concepts
+
+- [Pygmalion Effect](#pygmalion-effect)
+- [Self-Fulfilling Prophecy](#self-fulfilling-prophecy)
+
+### Additional Notes
+
+Ethical use of placebos requires transparency and avoids deception; open-label placebos—where patients know pills are inert—still produce benefits when grounded in credible rationales. The placebo effect has a counterpart, the nocebo effect, wherein negative expectations worsen symptoms.
+
+---
+
+## Bystander Effect
+
+**Bystander Effect** / **旁观者效应**
+
+### Description
+
+The bystander effect describes reduced likelihood of individuals offering help in emergencies when other people are present. Diffusion of responsibility (believing someone else will act) and pluralistic ignorance (assuming inaction signifies no problem) combine to inhibit intervention. The phenomenon explains tragic delays in aiding assault or accident victims and informs modern emergency-response training. Highlighting the effect and teaching concrete action steps empower witnesses to override social paralysis.
+
+### Origin
+
+Prompted by the 1964 murder of Kitty Genovese, psychologists **John Darley** and **Bibb Latané** conducted experiments in 1968 showing helping rates decline as the number of bystanders increases.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Bystander_effect)
+- [中文](https://zh.wikipedia.org/wiki/旁观者效应)
+
+### Applications
+
+- **Emergency Training:** Programs like the "5 Ds" (Direct, Distract, Delegate, Delay, Document) teach safe intervention strategies.
+- **Corporate Ethics:** Whistleblower policies and anonymous reporting channels counteract diffusion of responsibility for misconduct.
+- **Education:** Schools run bystander intervention workshops to combat bullying and harassment.
+- **Public Safety Campaigns:** Transit announcements remind riders to report suspicious behavior rather than assume others will.
+- **Online Communities:** Moderation tools empower users to flag abuse rather than remain silent observers.
+
+### Related Concepts
+
+- [Bandwagon Effect](#bandwagon-effect)
+- [Self-Fulfilling Prophecy](#self-fulfilling-prophecy)
+
+### Additional Notes
+
+Individual accountability increases when people are singled out, given clear roles, or witness models of intervention. Cultural norms emphasizing collective duty reduce bystander apathy.
+
+---
+
+## Scarcity Effect
+
+**Scarcity Effect** / **稀缺效应**
+
+### Description
+
+The scarcity effect refers to the heightened perceived value and desirability of items or opportunities that are rare, limited in quantity, or available for only a short time. Scarcity triggers psychological reactance—people resist restrictions on freedom—and signals social proof (others must want it). While scarcity can efficiently allocate limited resources, it also fuels panic buying, speculative bubbles, and manipulative marketing tactics. Awareness of the effect helps consumers and policymakers differentiate genuine scarcity from artificial scarcity engineered to drive demand.
+
+### Origin
+
+Seminal experiments by **Stephen Worchel**, **Jerry Lee**, and **Adewole Adewole** (1975) showed that cookies in scarce supply were rated more desirable than identical cookies in abundance.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Scarcity)
+- [中文](https://zh.wikipedia.org/wiki/稀缺)
+
+### Applications
+
+- **Marketing:** Limited-edition drops, countdown timers, and low-stock alerts capitalize on scarcity to accelerate purchases.
+- **Public Policy:** Authorities manage scarce resources (vaccines, water) transparently to prevent hoarding and black markets.
+- **Behavioral Economics:** Savings programs counteract scarcity-induced short-term thinking by automating deposits during high-resource periods.
+- **Operations Management:** Inventory buffers and demand smoothing reduce real scarcity that amplifies price volatility.
+- **Personal Productivity:** Timeboxing creates constructive scarcity of working hours, focusing attention on priority tasks.
+
+### Related Concepts
+
+- [Loss Aversion](#loss-aversion)
+- [Framing Effect](#framing-effect)
+
+### Additional Notes
+
+Scarcity messaging is most persuasive when scarcity is legitimate and accompanied by credible reasons (e.g., artisanal production limits). Ethical guidelines discourage fabricated scarcity that erodes trust and fosters wasteful consumption.
+
+---
+
+## Overjustification Effect
+
+**Overjustification Effect** / **过度理由效应**
+
+### Description
+
+The overjustification effect occurs when introducing external rewards for an activity that is already intrinsically motivating reduces future intrinsic interest. When people attribute their behavior to external incentives rather than internal enjoyment or values, the activity becomes transactional. Overjustification affects education, workplace motivation, parenting, and creative pursuits. Balancing extrinsic rewards with autonomy, mastery, and purpose preserves intrinsic drive while acknowledging performance milestones.
+
+### Origin
+
+Psychologist **Edward Deci** (1971) and **Mark Lepper, David Greene, and Richard Nisbett** (1973) demonstrated that paying participants for enjoyable tasks decreased subsequent voluntary engagement once rewards were removed.
+
+### Wikipedia Links
+
+- [English](https://en.wikipedia.org/wiki/Overjustification_effect)
+- [中文](https://zh.wikipedia.org/wiki/过度理由效应)
+
+### Applications
+
+- **Education:** Teachers emphasize curiosity and meaningful challenges over gold-star incentives to cultivate lifelong learning.
+- **Workplace Design:** Managers combine fair pay with autonomy-supportive environments and recognition of craftsmanship.
+- **Parenting:** Parents use praise that highlights effort and values rather than material rewards for prosocial behavior.
+- **Open Source Communities:** Contributors remain motivated when recognized for impact and community rather than solely bounties.
+- **Health Behavior:** Programs frame incentives as acknowledgments of commitment while reinforcing intrinsic goals like vitality.
+
+### Related Concepts
+
+- [Self-Fulfilling Prophecy](#self-fulfilling-prophecy)
+- [Framing Effect](#framing-effect)
+
+### Additional Notes
+
+Self-determination theory differentiates between controlled and autonomous motivation; supporting competence, autonomy, and relatedness keeps rewards from undermining intrinsic interest. Periodic reflection on personal values helps individuals resist overjustification pressures.
+
+---
+
 ## References & Further Reading
 
 - Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 - Cialdini, R. B. (2006). *Influence: The Psychology of Persuasion*. Harper Business.
 - Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
 - Aronson, E. (2011). *The Social Animal* (11th ed.). Worth Publishers.
+- Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad is stronger than good. *Review of General Psychology*, 5(4), 323-370.
+- Simons, D. J., & Chabris, C. F. (2010). *The Invisible Gorilla*. Crown.
 
 ---
 

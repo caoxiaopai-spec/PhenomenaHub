@@ -27,20 +27,32 @@ Our mission is to:
 
 ## 🗂️ Core Domains
 
-PhenomenaHub currently provides extensive coverage in the following ten foundational domains:
+PhenomenaHub currently provides extensive coverage in the following foundational domains:
 
-- [**Psychology**](docs/Psychology.md) — Cognitive processes, behavioral patterns, mental models
-- [**Economics**](docs/Economics.md) — Market dynamics, economic theories, financial principles
-- [**Sociology**](docs/Sociology.md) — Social structures, collective behaviors, systemic patterns
-- [**Physics**](docs/Physics.md) — Fundamental forces, thermodynamics, quantum phenomena
-- [**Biology**](docs/Biology.md) — Evolutionary processes, ecological interactions, life sciences
-- [**Computer Science**](docs/ComputerScience.md) — Algorithms, computing paradigms, information systems
-- [**Management**](docs/Management.md) — Organizational behavior, leadership principles, productivity laws
-- [**Marketing**](docs/Marketing.md) — Consumer psychology, persuasion effects, market responses
-- [**Philosophy**](docs/Philosophy.md) — Epistemological rules, logical laws, ethical frameworks
-- [**Mathematics**](docs/Mathematics.md) — Theorems, axioms, statistical and analytical principles
+### 🧠 Cognitive & Social Sciences
+- [**Psychology**](docs/en/Psychology.md) ([中文](docs/zh/Psychology.md)) — Cognitive processes, behavioral patterns, mental models (30+ laws & effects)
+- [**Sociology**](docs/en/Sociology.md) ([中文](docs/zh/Sociology.md)) — Social structures, collective behaviors, systemic patterns (20+ laws & effects)
+- [**Philosophy**](docs/en/Philosophy.md) ([中文](docs/zh/Philosophy.md)) — Epistemological rules, logical laws, ethical frameworks (Coming soon)
 
-Additional domains—including medicine, environmental science, education, and emerging technologies—are under active development.
+### 💼 Business & Economics
+- [**Economics**](docs/en/Economics.md) ([中文](docs/zh/Economics.md)) — Market dynamics, economic theories, financial principles (25+ laws & effects)
+- [**Management**](docs/en/Management.md) ([中文](docs/zh/Management.md)) — Organizational behavior, leadership principles, productivity laws (Coming soon)
+- [**Marketing**](docs/en/Marketing.md) ([中文](docs/zh/Marketing.md)) — Consumer psychology, persuasion effects, market responses (Coming soon)
+
+### 🔬 Natural Sciences
+- [**Physics**](docs/en/Physics.md) ([中文](docs/zh/Physics.md)) — Fundamental forces, thermodynamics, quantum phenomena (20+ laws & principles)
+- [**Biology**](docs/en/Biology.md) ([中文](docs/zh/Biology.md)) — Evolutionary processes, ecological interactions, life sciences (Coming soon)
+- [**Chemistry**](docs/en/Chemistry.md) ([中文](docs/zh/Chemistry.md)) — Chemical reactions, molecular behaviors, periodic trends (Coming soon)
+
+### 💻 Technology & Mathematics
+- [**Computer Science**](docs/en/ComputerScience.md) ([中文](docs/zh/ComputerScience.md)) — Algorithms, computing paradigms, information systems (15+ laws & principles)
+- [**Mathematics**](docs/en/Mathematics.md) ([中文](docs/zh/Mathematics.md)) — Theorems, axioms, statistical and analytical principles (Coming soon)
+
+### 🌍 Applied Sciences
+- [**Engineering**](docs/en/Engineering.md) ([中文](docs/zh/Engineering.md)) — Design principles, system behaviors, optimization laws (Coming soon)
+- [**Environmental Science**](docs/en/EnvironmentalScience.md) ([中文](docs/zh/EnvironmentalScience.md)) — Ecological principles, climate patterns, sustainability (Coming soon)
+- [**Medicine**](docs/en/Medicine.md) ([中文](docs/zh/Medicine.md)) — Medical principles, pharmacological effects, clinical observations (Coming soon)
+- [**Education**](docs/en/Education.md) ([中文](docs/zh/Education.md)) — Learning theories, pedagogical principles, educational psychology (Coming soon)
 
 ## 📖 Structure of Each Entry
 
@@ -91,16 +103,16 @@ All content in PhenomenaHub must:
 
 ## 🌐 Language Versions
 
-All documentation is available in:
-- **English** (`.md` files)
-- **中文 / Chinese** (`.zh.md` files)
+All documentation is organized by language:
+- **English**: `docs/en/` directory
+- **中文 / Chinese**: `docs/zh/` directory
 
-Each domain file has a matching bilingual pair (e.g., `Psychology.md` and `Psychology.zh.md`).
+Each domain file is available in both languages with parallel content structure.
 
 ## 📊 Repository Snapshot
 
-- **Covered Domains**: 10 (and expanding)
-- **Documented Laws & Effects**: 100+ (initial release)
+- **Covered Domains**: 15+ (and expanding)
+- **Documented Laws & Effects**: 100+ (growing continuously)
 - **Languages**: English & Chinese
 - **Last Major Update**: 2024-10
 
